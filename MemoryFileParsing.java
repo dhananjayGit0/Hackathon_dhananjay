@@ -31,8 +31,7 @@ for(int i=1; i<=lines; i++)
  	 re.readLine();
 
      }
-	
 	re.close();
-    System.out.println(text);
+    System.out.println(text); /*adding comment: 23rd Feb 2024 */
     }    
 }    
