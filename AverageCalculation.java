@@ -26,6 +26,7 @@ public class AverageCalculation {
 				} else
 					readbuffer.readLine();
 			}
+			//added comment
 			readbuffer.close();
 		} catch (IOException e) {
 			e.printStackTrace();
