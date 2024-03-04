@@ -8,7 +8,8 @@ public class MemoryFileParsing
       int lines=0;           
       FileReader fr=new FileReader(f1);  
       BufferedReader br = new BufferedReader(fr);
-      String s;              
+      String s;
+	    //code updated
       while((s=br.readLine())!=null)    
       {
          lines++;             
